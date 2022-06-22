@@ -1,0 +1,124 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+section{
+    height: 800px;
+}
+.half-width{
+    width: 30%;
+    float: left;
+    margin: 4%;
+    padding: 2%;
+}
+img{
+    width: 100%;
+}
+h1{
+    font-size: 50px;
+    font-weight: 400;
+}
+h2{
+    font-size: 40px;
+    font-weight: 500;
+}
+.text-highlight{
+    font-size: 55px;
+    font-weight: 900;
+    color: rgb(245, 66, 156);
+    letter-spacing: 0.2rem;
+    margin-top: -24px;
+}
+p{
+    color: rgb(126, 126, 126);
+    font-size: 15px;
+    line-height: 1.5rem;
+    margin-top: -5px;
+    margin-bottom: 40px;
+}
+.link-btn{
+    text-decoration: none;
+    background-image: linear-gradient(45deg,pink, hotpink);
+    color: #ffffff;
+    padding: 14px 32px;
+    border-radius: 5px;
+}
+.header-bg{
+    background-image: url("../images/header-bg.png");
+    background-repeat: no-repeat;
+    background-position: left;
+}
+.biography-bg{
+    background-image: url("../images/biography-bg.png");
+    background-repeat: no-repeat;
+}
+h3{
+    font-size: 45px;
+    font-weight: 500;
+    text-align: center;
+    margin-top: 100px;
+}
+h4{
+    font-size: 16px;
+    text-align: center;
+    font-weight: 500;
+    color: rgb(56, 55, 55);
+    margin-top: 60px;
+}
+.latest-work-bg{
+    background-image: url("../images/latest-work-bg.png");
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.latest-work-img{
+    width: 25%;
+    float: left;
+    margin: 1%;
+    margin-top: 50px;
+}
+.extra-margin{
+    margin-left: 190px;
+}
+.latest-work-img img{
+    width: 100%;
+}
+.p_founder{
+    color: rgb(126, 126, 126);
+    text-align: center;
+    font-size: 12px;
+    margin-top: -20px;
+}
+.queation{
+    color: rgb(74, 74, 74);
+    text-align: center;
+    font-size: 18px;
+}
+.small-box{
+    background-image: linear-gradient(45deg, #ff7cbe, #d60a70);
+    color: #ffffff;
+    font-size: 12px;
+    text-align: center;
+    padding: 40px 70px;
+    width: 20%;
+    margin-left: 36%;
+    border-radius: 5px;
+    margin-top: 60px;
+}
+.small-box .gmail{
+    margin-top: 60px;
+}
+.gmail{
+    font-size: 20px;
+}
+.footer-bg{
+    background-image: url("../images/footer-bg.png");
+    background-repeat: no-repeat;
+    background-position: center;
+}
+footer{
+    text-align: center;
+    font-size: 10px;
+    color: rgb(128, 128, 128);
+}
